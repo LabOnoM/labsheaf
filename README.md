@@ -37,6 +37,12 @@ Questions, reviews and proposals are welcome as issues. Pull requests are accept
 [`CONTRIBUTING.md`](CONTRIBUTING.md). Please report security problems privately, as described in
 [`SECURITY.md`](SECURITY.md), rather than in a public issue.
 
+## Checks and deploys
+
+This repository uses no GitHub Actions (LabOnoM decision, 2026-10-13): it holds a specification and has no automated
+checks yet, so review a change by hand before merging and record what was checked in the pull request; nothing runs
+automatically.
+
 ## Licence
 
 MIT, copyright Nexitia LLC. See [`LICENSE`](LICENSE).

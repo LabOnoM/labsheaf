@@ -12,6 +12,12 @@ Thank you for helping. Questions, reviews of the specification and proposals are
 - Keep each pull request to one change, explain why it is needed, and update the affected sections of `SPEC.md`.
 - Do not include material you are not free to license under MIT, such as text copied from other specifications.
 
+## Checks and deploys
+
+This repository uses no GitHub Actions (LabOnoM decision, 2026-10-13): it holds a specification and has no automated
+checks yet, so review a change by hand before merging and record what was checked in the pull request; nothing runs
+automatically.
+
 ## Security
 
 Report security problems privately as described in `SECURITY.md`, never in a public issue or pull request.
